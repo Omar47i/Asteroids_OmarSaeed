@@ -1,0 +1,4 @@
+*Game Metrics*
+- Game is landscape with reference aspect ratio of 16:9.
+- Asteroid minimum size is: 0.4 units
+- Asteroid that has three lives and three generation times will be the multiply of .4, i.e. 1.2 when hit becomes .8 and .4 and then 0
