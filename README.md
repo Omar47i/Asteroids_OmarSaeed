@@ -1,5 +1,5 @@
 # Asteroids_OmarSaeed
-A unity game about the legacy asteroid arcade game
+A unity game that looks like the legacy asteroid arcade game with new 2D sprites
 
 Gameplay video URL: https://www.youtube.com/watch?v=VBy4slmvXz0
 
